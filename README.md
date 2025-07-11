@@ -42,24 +42,6 @@ This project demonstrates:
 
 ---
 
-## 📁 Folder Structure
-
-usrmanagement/
-├── controllers/ # Request handlers (admin, user)
-├── models/ # Mongoose schemas
-├── routes/ # Application routes
-├── views/ # EJS templates
-│ ├── admin/
-│ └── users/
-├── public/ # Static files (CSS, images)
-├── app.js # Main application file
-├── package.json
-
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 Getting Started
 
